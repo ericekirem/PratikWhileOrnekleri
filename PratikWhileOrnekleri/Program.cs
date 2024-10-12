@@ -5,7 +5,7 @@ int i;
 i = 0;
 while (i < 10)
 {
-    Console.WriteLine("Kendime inanıyorum, ben bu yazılım işini hallederim!");
+    Console.WriteLine("Kendime inanıyorum, ben bu yazılım işini hallederim  !");
     i++;
 }
 
